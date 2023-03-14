@@ -19,12 +19,12 @@ This repository includes kicad directory and  pcb production files.
 - Rotary encoder support.
 - PCB powered by an Atmega32u4 and Unified C3 daughterboard (type-c and ESD protection) running QMK.
 
-<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kicad_top.png?token=GHSAT0AAAAAAB77XNLEFTMIMIE6ZOXVDCLAZAP62DQ" width="700px" />
-<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kicad_btm.png?token=GHSAT0AAAAAAB77XNLFWUM7TH6FOTS2EVWEZAP6ZWQ" width="700px" />
+<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kicad_top.png" width="700px" />
+<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kicad_btm.png" width="700px" />
 
 
 ### KLE
-<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kle.png?token=GHSAT0AAAAAAB77XNLFKQVQ5BCDQTT4U6RKZAP6WLQ" width="700px" />
+<img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kle.png" width="700px" />
 
 ## Production
 Please note that the pcb production files were prepared with JLCPCB's SMT assembly in mind. Should you deicide to proceed with a different manufacturer, the Bill of Materials (BOM) and position files may need to be modified.
