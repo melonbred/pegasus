@@ -15,7 +15,7 @@ This repository includes kicad directory and  pcb production files.
 
 ## Features
 - 12.75u layout 0.75u "WKL" blockers. 
-- Big bar and three split bar layout options.
+- Big bar and split bar layout options.
 - Rotary encoder support.
 - PCB powered by an Atmega32u4 and Unified C3 daughterboard (type-c and ESD protection) running QMK.
 
